@@ -75,6 +75,10 @@ section h2 {
     border-bottom: 2px solid #a451ec;
 }
 
+.dm {
+    display: none;
+}
+
 .sobre-loja img {
     width: 350px;
     height: auto;
@@ -132,6 +136,14 @@ button:hover {
         border-top: 2px solid #5a2d82;
     }
 
+    .ww {
+        display: none;
+    }
+
+    .dm {
+        display: block;
+    }
+
     .sobre-loja img {
         margin-right: 0;
         max-width: 100%;
@@ -174,4 +186,13 @@ button:hover {
     .sobre-loja img {
         width: 100%;
     }
+    
+    .ww {
+        display: none;
+    }
+
+    .dm {
+        display: block;
+    }
+
 }
