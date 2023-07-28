@@ -143,6 +143,10 @@ button:hover {
     .produtos {
         display: block;
     }
+
+    .sobre-loja img {
+        width: 100%;
+    }
     
 }
 
